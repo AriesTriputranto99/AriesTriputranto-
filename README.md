@@ -215,6 +215,52 @@ yaml
   ]
 },
 {
+  "nama_portofolio": "Portofolio AriesTriputranto",
+  "pemilik_portofolio": "AriesTriputranto",
+  "tanggal_diperbarui": "2025-08-24T12:00:00.000Z",
+  "ringkasan_portofolio": {
+    "nilai_total_saat_ini": 61790.00,
+    "total_biaya_investasi": 59500.00,
+    "total_laba_rugi": 2290.00,
+    "persentase_laba_rugi": 3.85
+  },
+  "posisi": [
+    {
+      "simbol_saham": "GOOGL",
+      "nama_perusahaan": "Alphabet Inc.",
+      "jumlah_saham": 100,
+      "harga_beli_rata_rata": 140.00,
+      "harga_saat_ini": 142.50,
+      "biaya_total": 14000.00,
+      "nilai_saat_ini": 14250.00,
+      "laba_rugi": 250.00,
+      "laba_rugi_persen": 1.79
+    },
+    {
+      "simbol_saham": "AAPL",
+      "nama_perusahaan": "Apple Inc.",
+      "jumlah_saham": 250,
+      "harga_beli_rata_rata": 180.00,
+      "harga_saat_ini": 185.00,
+      "biaya_total": 45000.00,
+      "nilai_saat_ini": 46250.00,
+      "laba_rugi": 1250.00,
+      "laba_rugi_persen": 2.78
+    },
+    {
+      "simbol_saham": "MSFT",
+      "nama_perusahaan": "Microsoft Corporation",
+      "jumlah_saham": 50,
+      "harga_beli_rata_rata": 30.00,
+      "harga_saat_ini": 35.80,
+      "biaya_total": 1500.00,
+      "nilai_saat_ini": 1790.00,
+      "laba_rugi": 290.00,
+      "laba_rugi_persen": 19.33
+    }
+  ]
+},
+{
   "nama_lisensi": "Apache License, Version 2.0",
   "spdx_identifier": "Apache-2.0",
   "deskripsi": "Lisensi perangkat lunak bebas yang permisif.",
